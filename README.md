@@ -2,10 +2,8 @@
 
 
 
-<!-- … [![Spotify](https://novatorem.rajchowdhury420.vercel.app//api/spotify)](https://open.spotify.com/user/nenedo6969trydfada1qiw864) -->
-
--  🔭 Penetration Tester
+-  🔭 Currently learning Penetration Testing & Red Teaming
 -  🌱 I Play CTFs & Find bugs 🐛 
-  
+-  🥝 Looking for Security Engineer Roles
 
-
+![](ff.gif)
