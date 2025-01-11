@@ -6,4 +6,6 @@
 -  🌱 I Play CTFs & Find bugs 🐛 
 -  🥝 Looking for Security Engineer Roles
 
-![](ff.gif)
+<p align="center">
+  <img src="ff.gif" alt="GIF Description" width="300">
+</p>
