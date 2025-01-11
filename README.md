@@ -7,8 +7,5 @@
 -  🔭 Penetration Tester
 -  🌱 I Play CTFs & Find bugs 🐛 
   
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=fff)
-![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
-![Arch Linux Badge](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=archlinux&logoColor=fff)
 
 
