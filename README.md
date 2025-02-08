@@ -3,6 +3,7 @@
 
 
 -  🔭 Currently learning Penetration Testing & Red Teaming
+-  📜 eJPT
 -  🌱 I Play CTFs & Find bugs 🐛 
 -  🥝 Looking for Security Engineer Roles
 
